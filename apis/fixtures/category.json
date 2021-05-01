@@ -1,0 +1,64 @@
+[
+    {
+    "model": "apis.Category",
+    "pk": 1,
+    "fields": {
+        "category_name": "News"
+        }
+    },
+    {
+      "model": "apis.Category",
+      "pk": 2,
+      "fields": {
+        "category_name": "News"
+      }
+    },
+  
+    {
+      "model": "apis.Category",
+      "pk": 3,
+      "fields": {
+        "category_name": "Sports"
+      }
+    },
+  
+    {
+      "model": "apis.Category",
+      "pk": 4,
+      "fields": {
+        "category_name": "Entertainment"
+      }
+    },
+  
+    {
+      "model": "apis.Category",
+      "pk": 5,
+      "fields": {
+        "category_name": "Politics"
+      }
+    },
+  
+    {
+      "model": "apis.Category",
+      "pk": 6,
+      "fields": {
+        "category_name": "Technology"
+      }
+    },
+  
+    {
+      "model": "apis.Category",
+      "pk": 7,
+      "fields": {
+        "category_name": "Finance"
+      }
+    }
+  ][
+  {
+    "model": "apis.Category",
+    "pk": 8,
+    "fields": {
+      "category_name": "Contact Us"
+    }
+  },
+]
